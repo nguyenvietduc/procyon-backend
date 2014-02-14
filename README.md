@@ -1,2 +1,2 @@
-du-portal-backend
+procyon-backend
 =================
