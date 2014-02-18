@@ -13,3 +13,34 @@ dist
 /.project
 /RUNNING_PID
 /.settings
+
+# general
+*~
+*.log
+tmp
+dump
+db
+log
+modules
+precompiled
+ 
+# Eclipse
+.settings
+.cache
+.project
+.classpath
+.scala_dependencies
+bin
+eclipse
+ 
+# SBT
+dist
+project/boot
+project/target
+project/plugins/target
+target
+.target
+ 
+# Play
+logs
+RUNNING_PID
